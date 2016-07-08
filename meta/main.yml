@@ -1,0 +1,16 @@
+galaxy_info:
+  author: Farhad Taebi
+  description: Install pathogen and plugins
+  license: MIT
+  min_ansible_version: 1.2
+  github_branch: master
+  platforms:
+    - name: GenericUNIX
+      versions:
+        - any
+        - all
+  galaxy_tags:
+    - vim
+    - pathogen
+
+dependencies: []
